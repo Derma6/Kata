@@ -1,0 +1,1 @@
+document.querySelector('h1').textContent = "“La motivation vous sert de départ. L'habitude vous fait continuer.”";
