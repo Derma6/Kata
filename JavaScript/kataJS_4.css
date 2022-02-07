@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(253, 237, 226);
+}
+a {
+    text-align: center;
+    text-decoration: none;
+    transform: scale(5);
+}
